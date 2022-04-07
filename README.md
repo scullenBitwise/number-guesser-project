@@ -1,5 +1,9 @@
 # Number Guesser React Project
 
+#### [Description](#description) | [Demo](#demo) | [Requirements](#requirements) | [Bonuses](#bonuses) | [Closing Thoughts](#closing-thoughts)
+
+---------
+
 ## Description:
 Over the next few days, you will be building out a simple React game to firm up your understanding of components, JSX, props, state, and events. Each team member should create their own game/the code within it, but you are welcome to work collaboratively with your teammates to discuss strategy, debug issues, review code, etc.
 
